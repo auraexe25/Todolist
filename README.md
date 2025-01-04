@@ -80,11 +80,6 @@ project-folder/
 ### Home Page
 - A clean and responsive UI for managing tasks.
 
-![Home Page Screenshot](https://via.placeholder.com/800x400)
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
